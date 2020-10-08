@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Languages and Tools:**  
+
+Gotta add some stats:
+https://github.com/anuraghazra/github-readme-stats
