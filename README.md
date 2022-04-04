@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**  
 
-Gotta add some stats:
+<!-- Gotta add some stats:
 https://github.com/anuraghazra/github-readme-stats
+-->
