@@ -2,16 +2,15 @@
 
   ### Hi there 👋
 
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/leithhobson">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Leith on LinkedIn"/>
-    </a>
-  </div>
+<!--   <div id="badges"> -->
+  <a href="https://www.linkedin.com/in/leithhobson">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Leith on LinkedIn"/>
+  </a>
+<!--   </div> -->
+  
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
 
   ![Leith's GitHub stats](https://github-readme-stats.vercel.app/api?username=leithhobson&count_private=true&show_icons=true&theme=dark&hide=contribs)
-
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 </div>
 
