@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![www.linkedin.com/in/leithhobson](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)
 
 <div id="badges">
   <a href="www.linkedin.com/in/leithhobson">
