@@ -11,6 +11,8 @@
 
   ![Leith's GitHub stats](https://github-readme-stats.vercel.app/api?username=leithhobson&count_private=true&show_icons=true&theme=dark&hide=contribs)
 
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+
 </div>
 
 **Languages and Tools:**  
