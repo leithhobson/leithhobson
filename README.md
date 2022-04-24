@@ -2,7 +2,7 @@
 
 
 <div id="badges">
-  <a href="www.linkedin.com/in/leithhobson">
+  <a href="https://www.linkedin.com/in/leithhobson">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Leith on LinkedIn"/>
   </a>
 </div>
