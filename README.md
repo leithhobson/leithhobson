@@ -14,7 +14,7 @@
 
   ![Leith's GitHub](https://github-readme-streak-stats.herokuapp.com/?user=leithhobson&theme=vue-dark)
 
-  [![Leith's GitHub trophies](https://github-profile-trophy.vercel.app/?username=leithhobson&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+  [![Leith's GitHub trophies](https://github-profile-trophy.vercel.app/?username=leithhobson&theme=discord&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
