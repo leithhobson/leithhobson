@@ -10,11 +10,15 @@
   
   ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-  ![Leith's GitHub stats](https://github-readme-stats.vercel.app/api?username=leithhobson&count_private=true&show_icons=true&theme=dark&hide=contribs)
+  ![Leith's GitHub stats](https://github-readme-stats.vercel.app/api?username=leithhobson&count_private=true&show_icons=true&theme=vue-dark&hide=contribs)
 
+  ![Leith's GitHub](https://github-readme-streak-stats.herokuapp.com/?user=leithhobson&theme=vue-dark)
+
+  [![Leith's GitHub trophies](https://github-profile-trophy.vercel.app/?username=leithhobson&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+  
 </div>
 
-**Languages and Tools:**  
+**Languages and Tools:** 
 
 <div>
   List is a work in progress 😄
@@ -32,7 +36,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" **alt="Express" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>
 </div>
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leithhobson&langs_count=8)](https://github.com/leithhobson) -->
 <!--
